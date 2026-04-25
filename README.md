@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Nolan ! 👋</h1>
 
 <p align="center">
-  <em>Passionate Developer / [Your Title, e.g., Software Engineering Student]</em>
+  <em>2nd-year IT Student at IUT2 Grenoble | Sysadmin, Cybersecurity & Web Developer</em>
 </p>
 
 <p align="center">
@@ -12,12 +12,10 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **[Name of your main project or repo link]**
-- 🌱 I’m currently learning **[e.g., React, Python, Docker, Machine Learning...]**
-- 👯 I’m looking to collaborate on **[e.g., Open Source projects, Hackathons]**
-- 💬 Ask me about **[Your areas of expertise]**
-- 📫 How to reach me: **[Your email address]**
-- ⚡ Fun fact: **[A hobby or a fun fact about you]**
+- 🔭 I’m currently in internship at **[@BearStudio](https://github.com/BearStudio)**.
+- 🌱 I’m currently deepening my knowledge in **System Administration, Cybersecurity, and Modern Web Frameworks**.
+- 👯 I’m looking to collaborate on **Open Source projects, Web Development, and Sysadmin tools**.
+- 📫 How to reach me: **[Check out my Portfolio](https://nolan-notargiacomo.vercel.app)**
 
 ---
 
@@ -25,7 +23,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,git,github,docker,linux&perline=11" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,linux,bash,docker,git,github&perline=13" alt="My Skills" />
   </a>
 </p>
 
@@ -42,24 +40,15 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/NolanNtrg">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NolanNtrg&layout=compact&theme=tokyonight&hide_border=true&locale=en" alt="Top Languages" width="48%" />
-  </a>
-</p>
-
 ---
 
 ### 🌐 Connect with me
 
 <p align="center">
-  <a href="https://linkedin.com/in/[YourLinkedInProfile]">
+  <a href="https://linkedin.com/in/nolan-notargiacomo">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="[Link to your portfolio or website]">
-    <img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:[YourEmail]">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://nolan-notargiacomo.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
